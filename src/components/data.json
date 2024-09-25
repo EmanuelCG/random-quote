@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "quote": "Life is what happens while you are busy making other plans.",
+        "author": "John Lennon"
+    },
+    {
+        "id": 2,
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "id": 3,
+        "quote": "Don’t count the days, make the days count.",
+        "author": "Muhammad Ali"
+    },
+    {
+        "id": 4,
+        "quote": "Success is the sum of small efforts repeated day in and day out.",
+        "author": "Robert Collier"
+    },
+    {
+        "id": 5,
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "id": 6,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "id": 7,
+        "quote": "The only limitation is your mind.",
+        "author": "Napoleon Hill"
+    },
+    {
+        "id": 8,
+        "quote": "Worrying is like paying a debt you don’t owe.",
+        "author": "Mark Twain"
+    },
+    {
+        "id": 9,
+        "quote": "Believe you can and you’re halfway there.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "id": 10,
+        "quote": "Everything you can imagine is real.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "id": 11,
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill"
+    },
+    {
+        "id": 12,
+        "quote": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama"
+    },
+    {
+        "id": 13,
+        "quote": "What doesn't kill us makes us stronger.",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "id": 14,
+        "quote": "The best way to predict the future is to invent it.",
+        "author": "Alan Kay"
+    },
+    {
+        "id": 15,
+        "quote": "It’s not how far you fall, but how high you bounce that counts.",
+        "author": "Zig Ziglar"
+    },
+    {
+        "id": 16,
+        "quote": "Dreams don’t work unless you do.",
+        "author": "John C. Maxwell"
+    },
+    {
+        "id": 17,
+        "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill"
+    },
+    {
+        "id": 18,
+        "quote": "You miss 100% of the shots you don’t take.",
+        "author": "Wayne Gretzky"
+    },
+    {
+        "id": 19,
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser"
+    },
+    {
+        "id": 20,
+        "quote": "You only live once, but if you do it right, once is enough.",
+        "author": "Mae West"
+    }
+]
